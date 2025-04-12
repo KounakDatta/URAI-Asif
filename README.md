@@ -46,7 +46,7 @@ Backend: Node.js, Flask (if used for API services)
 
 🤝 Contributing We welcome contributions! Feel free to open an issue or submit a pull request.
 
-📧 Contact Have questions or feedback? Reach out at: 📩 Email: arshiyanandy1731@gmail.com
+📧 Contact Have questions or feedback? Reach out at: 📩 Email: dattakounak@gmail.com
 
 This is a Next.js project bootstrapped with create-next-app.
 ## Getting Started
