@@ -22,11 +22,11 @@ const Footer: React.FC = () => {
           </div>
           <div className="flex items-center space-x-2">
             <FaEnvelope className="text-blue-400" />
-            <span>support@genieai.com</span>
+            <span>dattakounak@gmail.com</span>
           </div>
           <div className="flex items-center space-x-2">
             <FaPhoneAlt className="text-blue-400" />
-            <span>+1 (987) 654-3210</span>
+            <span>033 2527 2527</span>
           </div>
         </div>
 
@@ -48,14 +48,14 @@ const Footer: React.FC = () => {
       <div className="mt-6 text-center border-t border-gray-700 pt-4">
         <h4 className="text-sm font-semibold">Contributors:</h4>
         <div className="flex justify-center space-x-2">
-          <span className="text-sm">Md Asiful Ameen</span>
+          <span className="text-sm">Kounak Datta</span>
           <span className="text-sm">& Team</span>
         </div>
       </div>
 
       {/* Copyright Section */}
       <div className="mt-4 text-center text-sm border-t border-gray-700 pt-4">
-        © 2025 Genie AI. All Rights Reserved.
+        © 2025 UR AI. All Rights Reserved.
       </div>
     </footer>
   );
